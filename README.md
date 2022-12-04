@@ -1,6 +1,6 @@
 # find_flames_ui
 
-A new Flutter project.
+A Flutter project.
 
 ## Chat Application UI
 
